@@ -4,7 +4,7 @@
   <br/><br/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=Hi,+I'm+Shouq+Almanjumi.;Computer+Engineer;Backend+Developer+(.NET);Security+%26+Network+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=Hi,+I'm+Shouq+Almanjumi.;Computer+Engineer;Backend+Developer;Security+%26+Network+Specialist" alt="Typing SVG" />
   </a>
 </div>
 
@@ -94,8 +94,6 @@ Security, OS & Tools
 </div>
 
 ### 🚀 Key Projects
-
-•⁠  ⁠Enterprise Web Apps: Developing scalable backends using ASP.NET Core (SDLC).
 
 •⁠  ⁠IoT & Hardware: Led the engineering of a Smart RFID-IoT Tracking System.
 
