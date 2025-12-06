@@ -1,11 +1,10 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px" />
-  <img src="https://i.pinimg.com/originals/ce/12/3f/ce123f46199b5030e2133c391264c45a.gif" width="100%" style="border-radius: 15px;" alt="Pink Setup" />
   
   <br/><br/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=Hi,+I'm+Shouq+Almanjumi.;Computer+Engineer;Backend+Developer;Security+%26+Network+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=Hi,+I'm+Shouq+Almanjumi.;Computer+Engineer;Backend+Developer+(.NET);Security+%26+Network+Specialist" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,7 +22,7 @@
     <span style="color: #FF1493;">using</span> CyberSecurity;<br><br>
     <span style="color: #FF1493;">public class</span> <span style="color: #FF69B4;">Shouq</span> : <span style="color: #F8BBD0;">Engineer</span><br>
     {<br>
-    &nbsp;&nbsp;<span style="color: #569CD6;">public string</span> Role = <span style="color: #F48FB1;">"Backend Developer (.NET)"</span>;<br>
+    &nbsp;&nbsp;<span style="color: #569CD6;">public string</span> Role = <span style="color: #F48FB1;">"Backend Developer"</span>;<br>
     &nbsp;&nbsp;<span style="color: #569CD6;">public string[]</span> Skills = { <span style="color: #F48FB1;">"C#"</span>, <span style="color: #F48FB1;">"Security+"</span>, <span style="color: #F48FB1;">"Network+"</span> };<br><br>
     &nbsp;&nbsp;<span style="color: #6A9955;">// Building secure futures 🚀</span><br>
     &nbsp;&nbsp;<span style="color: #FF1493;">public void</span> <span style="color: #FF69B4;">Code</span>()<br>
@@ -108,5 +107,5 @@ Security, OS & Tools
 
 <div align="center">
   <br>
-  <sub>Shouq Almanjumi © 2025</sub>
+  <sub>Shouq Almanjumi ©️ 2025</sub>
 </div>
